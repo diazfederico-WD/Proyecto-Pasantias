@@ -17,7 +17,7 @@
 - Arreglar que cada vez que salte un error no se borren todos los campos
 - Realizar una vista de Administrador
 
---- Inicio se la Pagina Web ---
+--- Inicio de la Pagina Web ---
 - Realizar el Diseño Principal 
 
 --- Entrevista ---
