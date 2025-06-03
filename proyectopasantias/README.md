@@ -3,7 +3,7 @@
 
 -- Realizar la Carpeta de Campo
 
---- Tareas a Cumplir (Login y Register ---
+--- Tareas a Cumplir (Login y Register) ---
 - Hacer mas sencillo la encriptacion de la Contraseña para que sea entendible (No Necesario)
 - Que funcione el Recordar del Login (Depende de como haga el Inicio de Sesion o como funcione)
 - A la Hora de crear una cuenta se tiene que verificar que la persona sea dueña del Email ingresado (Verificacion por Email con link)
