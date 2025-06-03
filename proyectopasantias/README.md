@@ -1,6 +1,8 @@
 
 // Modificar carpeta de campo , agregar fotos y lo que no puse (24/5/25 creacion de la base de datos y la conexion a esta , 31/5/25 Encriptacion y otros errores de la base de datos)
 
+-- Realizar la Carpeta de Campo
+
 --- Tareas a Cumplir (Login y Register ---
 - Hacer mas sencillo la encriptacion de la Contraseña para que sea entendible (No Necesario)
 - Que funcione el Recordar del Login (Depende de como haga el Inicio de Sesion o como funcione)
