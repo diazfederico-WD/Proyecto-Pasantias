@@ -1,7 +1,10 @@
+--- Carpeta de Campo ---
+- Realizar la Carpeta de Campo en el mismo Github 
+- Realizar la Carpeta de Campo siguiendo los requerimientos expresados en los Documentos de Drive. Si se puede hacer uso de las Fotos de la Carpeta Documentos
 
-// Modificar carpeta de campo , agregar fotos y lo que no puse (24/5/25 creacion de la base de datos y la conexion a esta , 31/5/25 Encriptacion y otros errores de la base de datos)
-
--- Realizar la Carpeta de Campo
+- Anotar lo hablado en la Entrevista (Aca en el README.md)
+- Paginas de Guia (carpinteriabenegas.com)
+(bergamota.com.ar)
 
 --- Tareas a Cumplir (Login y Register) ---
 - Hacer mas sencillo la encriptacion de la Contraseña para que sea entendible (No Necesario)
@@ -12,3 +15,9 @@
 - Que cuando se Inicie Sesion se redirrecione a la Pagina y se Inicie una Sesion (Que esta dure hasta que se cierra la Pagina)
 - Indicar que la contraseña tenga una cantidad de caracteres
 - Arreglar que cada vez que salte un error no se borren todos los campos
+- Realizar una vista de Administrador
+
+--- Inicio se la Pagina Web ---
+- Realizar el Diseño Principal 
+
+--- Entrevista ---
