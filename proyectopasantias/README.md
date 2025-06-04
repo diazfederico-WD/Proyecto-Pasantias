@@ -2,10 +2,6 @@
 - Realizar la Carpeta de Campo en el mismo Github 
 - Realizar la Carpeta de Campo siguiendo los requerimientos expresados en los Documentos de Drive. Si se puede hacer uso de las Fotos de la Carpeta Documentos
 
-- Anotar lo hablado en la Entrevista (Aca en el README.md)
-- Paginas de Guia (carpinteriabenegas.com)
-(bergamota.com.ar)
-
 --- Login y Register ---
 - Hacer mas sencillo la encriptacion de la Contraseña para que sea entendible (No Necesario)
 - Que funcione el Recordar del Login (Depende de como haga el Inicio de Sesion o como funcione)
@@ -19,5 +15,10 @@
 
 --- Inicio de la Pagina Web ---
 - Realizar el Diseño Principal 
+- Usar como guia las páginas mencionadas
+- Paginas de Guia (carpinteriabenegas.com)
+(bergamota.com.ar)
+- Ante otras características consultar la entrevista para más detalles
 
 --- Entrevista ---
+- Se busca una accesibilidad, es decir lo que se muestre este al alcance , se busca un contraste negro en la página junto con una paleta de colores atractivas . Se apunta a los mayoristas especificar esto . Se busca una pagina informativa , apuntamos a cierto público el cual busque algo artenasal no algo típico que se consigue ya armado y te lo llevas , se busca un buen producto el cual apunte a un cliente con un poco de dinero que busque adornar su casa junto con sus entornos y otros muebles . Se busca resaltar los detalles de los productos de como estos están hechos con firmeza y de calidad. Que los productos se encuentran en multiples provincias (no en una gran cantidad) . La venta ya se realiza no hace falta esa parte . Desde la vista de Administrador ver si es posible mostrar que es lo que más se ve , armar estadísticas y poder mostrar más en primera plana que es lo que se quiere mostrar . Especificar datos específicos de los productos . Agregar datos importantes como donde estamos , hace cuánto estamos , como nos contactas , marcas si es posible. Específicar que los productos no son a medida no son a encargo , recordar que toma un tiempo el armar . Foto montajes , videos armados tipo publicidad . Respecto al diseño necesitamos un nuevo nombre y logo.
